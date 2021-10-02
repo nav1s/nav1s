@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey, I'm nav1s 👋
+
+_Building an open-source legacy, one commit at a time._
+
+![nav1s's GitHub stats](https://github-readme-stats.vercel.app/api?username=nav1s&show_icons=true&count_private=true&hide=stars,issues&theme=vue-dark)
 
 <!--
 **nav1s/nav1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
